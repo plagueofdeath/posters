@@ -11,7 +11,7 @@ Answer a truth or take 20
 If you have black on take 5
 If you have gold on take 5
 If you have red on take 5
-Survival round chug until you next spin
+Survival round chug until your next spin
 If you are in the necromancy group take a 3 second chug
 Take 2 and spin again
 Next player takes 2
