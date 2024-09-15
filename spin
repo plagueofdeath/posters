@@ -49,7 +49,7 @@ Taken people take 5
 Plague Of Death Special take a minute chug
 Popa Perc Special pick a mate and take 5
 EpiPie Special take 5 and give 5
-Plasma Special take 15
+Plasma Special take 15 drinks and smoke 3
 NightfallsAngel Special take a 30 second chug
 Logic.exe Special take 12
 10 second chug
