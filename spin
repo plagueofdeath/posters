@@ -51,7 +51,7 @@ Popa Perc Special pick a mate and take 5
 EpiPie Special take 5 and give 5
 Plasma Special take 15
 NightfallsAngel Special take a 30 second chug
-Logic.exe Special take 10
+Logic.exe Special take 12
 10 second chug
 Necromancy fever everyone takes 15
 Take 3
