@@ -85,3 +85,4 @@ Non Discord members take 2
 Human avis take 3
 Non Human avis take 3
 Take 2 if you have broken a controller/headset playing VRC
+If it is a collab event take 15
