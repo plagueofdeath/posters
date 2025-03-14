@@ -47,7 +47,6 @@ If you have ERP take 5
 Single people take 5
 Taken people take 5
 Plague Of Death Special take a minute chug
-Popa Perc Special pick a mate and take 5
 Plasma Special take 15 drinks and smoke 3
 NightfallsAngel Special take a 30 second chug
 Logic.exe Special take 12
